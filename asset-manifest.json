@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/i-robot/static/css/main.0708f29f.chunk.css",
+    "main.js": "/i-robot/static/js/main.8d8492c0.chunk.js",
+    "main.js.map": "/i-robot/static/js/main.8d8492c0.chunk.js.map",
+    "runtime-main.js": "/i-robot/static/js/runtime-main.e39258b3.js",
+    "runtime-main.js.map": "/i-robot/static/js/runtime-main.e39258b3.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/i-robot/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.0b4580ff.chunk.js": "/i-robot/static/js/2.0b4580ff.chunk.js",
+    "static/js/2.0b4580ff.chunk.js.map": "/i-robot/static/js/2.0b4580ff.chunk.js.map",
+    "static/js/3.d1efd037.chunk.js": "/i-robot/static/js/3.d1efd037.chunk.js",
+    "static/js/3.d1efd037.chunk.js.map": "/i-robot/static/js/3.d1efd037.chunk.js.map",
+    "index.html": "/i-robot/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/i-robot/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.0708f29f.chunk.css.map": "/i-robot/static/css/main.0708f29f.chunk.css.map",
+    "static/js/2.0b4580ff.chunk.js.LICENSE.txt": "/i-robot/static/js/2.0b4580ff.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/i-robot/static/media/PEPSI_pl.ca8a2df1.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e39258b3.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.0b4580ff.chunk.js",
+    "static/css/main.0708f29f.chunk.css",
+    "static/js/main.8d8492c0.chunk.js"
+  ]
+}
